@@ -1,4 +1,4 @@
-for i in range(1,101):
+for i in range(1,101): #creates a row of numbers from 1 to 100
     if i % 3 == 0:
         if i % 5 == 0:
             print("FizzBuzz")
